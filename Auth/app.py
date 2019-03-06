@@ -8,12 +8,12 @@ import os
 import tempfile
 app = Flask(__name__)
 config = {
-    "apiKey": "AIzaSyBxRaf5lE-4yER2W2iAPgehRwlxRGCOWgs",
-    "authDomain": "flasklogin-11701.firebaseapp.com",
-    "databaseURL": "https://flasklogin-11701.firebaseio.com",
-    "projectId": "flasklogin-11701",
-    "storageBucket": "flasklogin-11701.appspot.com",
-    "messagingSenderId": "715568210092"
+    "apiKey": "",
+    "authDomain": "",
+    "databaseURL": "",
+    "projectId": "",
+    "storageBucket": "",
+    "messagingSenderId": ""
 }
 
 
